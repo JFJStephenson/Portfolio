@@ -9,3 +9,15 @@ To summarise:
 - Use NumPy, Pandas and Object Orientated MatplotLib to produce readable, efficient code and quality figures.  
 
 ![Particles self-assembling](./SimBoxes.png)
+
+
+
+
+## [Youtube Trending Videos](https://github.com/JFJStephenson/YoutubeTrendingVideos/blob/main/ViewVsCommentCorrelations.ipynb)
+This project is a foray into exploratory data analysis - visualising viewership metrics and some additional information around the sentiment and controversy videos grouped by catagory. 
+
+To summarise:
+
+- Load trending Youtube Video Datasets and perform basic visualisation on some relationships between viewership metrics, i.e. views/comments/dislikes
+- Investigate trends which may vary between video catagory and country of origin
+- Perform sentiment analysis to find any interesting trends with regards to the sentiment of video descriptions.
