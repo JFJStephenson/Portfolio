@@ -21,3 +21,5 @@ To summarise:
 - Load trending Youtube Video Datasets and perform basic visualisation on some relationships between viewership metrics, i.e. views/comments/dislikes
 - Investigate trends which may vary between video catagory and country of origin
 - Perform sentiment analysis to find any interesting trends with regards to the sentiment of video descriptions.
+![Viewership Stats](./PortolfioImg.png)
+
