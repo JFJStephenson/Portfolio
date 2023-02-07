@@ -36,3 +36,15 @@ To summarise:
 - Using limited festure selection to avoid overfitting and a degree of careful hyperparameter tuning develop a random forest model.  
 
 ![Titanic Surivability Predictions](./ConfusionMatrix.png)
+
+
+## [Disaster Tweet Classifier](https://github.com/JFJStephenson/DisasterTweetFinder/blob/main/Workbook.ipynb)
+In this project the purpose was to classify tweets into disaster and non-disaster classes. This project was focussed around some NLP concepts involving pre-processing
+the tweet text, extracting and utilising metadata and identifying the effects of each pre-processing step upon the overall accuracy of the models. 
+To summarise:
+
+- NLP - pre-processing, cleaning text and utilising TF-IDF tokenisation.
+- Analysising the impact of each pre-processing step and selecting only those with a positive impact upon the overall score. 
+- Hyperparamater tuning to acheieve optimal results. 
+
+![Disaster Tweet Classifier](./EffectUponModelScore.png)
